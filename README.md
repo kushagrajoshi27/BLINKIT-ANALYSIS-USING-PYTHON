@@ -1,4 +1,4 @@
-🛒 Blinkit Data Analysis using Python 📊
+## 🛒 Blinkit Data Analysis using Python 📊
 
 Welcome to my project on Blinkit (formerly Grofers) Data Analysis! 🚀 This project dives into real-world grocery e-commerce data to uncover patterns, trends, and insights using Python and popular libraries like Pandas, Matplotlib, and Seaborn. 📈
 
